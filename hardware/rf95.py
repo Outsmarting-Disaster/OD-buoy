@@ -249,6 +249,8 @@ CH_10_US=924.68
 CH_11_US=926.84
 CH_12_US=915.00
 
+CH_01_ID=433E6
+
 
 class RF95:
     def __init__(self, cs=0, int_pin=25, reset_pin=None, led_pin=None):
